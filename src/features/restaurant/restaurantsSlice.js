@@ -23,3 +23,4 @@ export default function restaurantsReducer(state = initialState, action) {
       return state;
   }
 }
+
